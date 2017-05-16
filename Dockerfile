@@ -1,0 +1,2 @@
+FROM codeclimate/codeclimate
+ENTRYPOINT []
